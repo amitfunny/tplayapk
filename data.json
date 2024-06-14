@@ -77,6 +77,12 @@
       "channel_genre": "Sports",
       "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png"
     },
+   {
+    "channel_name": "Star Sports 1 Hindi HD (Worldwide)",
+    "channel_genre": "Movies",
+    "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
+    "target" : "https://allinonereborn.tech/kids/str-sports-hindi.html"
+    },
     {
       "channel_id": "267",
       "channel_name": "&pictures HD",
