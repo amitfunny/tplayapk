@@ -3109,16 +3109,10 @@
       "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66595-kupdpd9k-v1/imageContent-66595-kupdpd9k-m1.png"
     },
     {
-      "channel_id": "387",
-      "channel_name": "Star Maa Movies HD",
-      "channel_genre": "Telugu",
-      "logo": ""
-    },
-    {
-      "channel_id": "957",
-      "channel_name": "Star Maa Movies HD",
-      "channel_genre": "Telugu",
-      "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png"
+    "channel_name": "Star Maa Movies HD",
+    "channel_genre": "Telugu",
+    "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png",
+    "target" : "https://allinonereborn.tech/kids/str-maa-movie.html"
     },
     {
       "channel_id": "469",
