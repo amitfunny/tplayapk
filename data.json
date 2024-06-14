@@ -12,6 +12,12 @@
       "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png"
     },
     {
+    "channel_name": "Asianet Movies HD",
+    "channel_genre": "Malayalam",
+    "logo": "https://i.ibb.co/9Y4Nr66/Screenshot-2024-06-14-182532.png",
+    "target" : "https://allinonereborn.tech/kids/asianet-movies.html"
+    },
+    {
     "channel_name": "Star Movies HD",
     "channel_genre": "Movies",
     "logo": "https://i.ibb.co/QCtY1mm/Screenshot-2024-06-14-173632.png",
