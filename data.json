@@ -18,6 +18,12 @@
     "target" : "https://allinonereborn.tech/kids/str-movie.html"
     },
     {
+    "channel_name": "&Flix HD",
+    "channel_genre": "Movies",
+    "logo": "https://i.ibb.co/gWkYs60/Screenshot-2024-06-14-175907.png",
+    "target" : "https://allinonereborn.tech/kids/&-flix.html"
+    },
+    {
       "channel_id": "15",
       "channel_name": "SET HD",
       "channel_genre": "Entertainment",
